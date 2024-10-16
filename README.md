@@ -19,8 +19,8 @@
     <!-- License -->
     <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg?&logo=open-source-initiative&logoColor=white" alt="License: MIT"/>&nbsp;&nbsp;
     <!-- PyPI -->
-    <a href="https://pypi.org/project/python_package">
-      <img src="https://img.shields.io/pypi/v/python_package?&logo=pypi&logoColor=white&label=PyPI" alt="PyPI version"/></a>&nbsp;&nbsp;
+    <!-- <a href="https://pypi.org/project/python_package">
+      <img src="https://img.shields.io/pypi/v/python_package?&logo=pypi&logoColor=white&label=PyPI" alt="PyPI version"/></a>&nbsp;&nbsp; -->
     <!-- Last Commit -->
     <img src="https://img.shields.io/github/last-commit/healkeiser/python_package?logo=github&label=Last%20Commit" alt="Last Commit"/>&nbsp;&nbsp;
     <!-- Commit Activity -->
