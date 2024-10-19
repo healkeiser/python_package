@@ -62,4 +62,12 @@ Python package template repository.
 <!-- AUTO-CHANGELOG -->
 ## Auto Changelog
 
-You can find the changelog [here](CHANGELOG.md). To run `auto-changelog`, follow those [instructions](https://healkeiser.github.io/notes/development/javascript/auto-changelog/#install).
+You can find the changelog [here](CHANGELOG.md). To run [`auto-changelog`](https://github.com/cookpete/auto-changelog), follow those [instructions](https://healkeiser.github.io/notes/development/javascript/auto-changelog/#install).
+
+The commits containing the `README` or `CHANGELOG` characters will be ignored by `auto-changelog`. To include them, remove the following lines from the [`.auto-changelog`](.auto-changelog) file:
+
+```json
+{
+    "ignoreCommitPattern": ".*(CHANGELOG|README).*",
+}
+```
