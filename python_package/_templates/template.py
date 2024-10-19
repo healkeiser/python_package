@@ -1,5 +1,7 @@
 """Template module."""
 
+# pylint: disable=unused-import, too-few-public-methods
+
 # Built-in
 import logging
 
@@ -26,9 +28,9 @@ class HelloWorld:
     """A simple class with a single attribute."""
 
     def __init__(self):
-        self.to_print = "Hello, world!"
+        self.hello_world = "Hello, world!"
 
     def print(self) -> None:
         """Prints the attribute value."""
 
-        print(self.to_print)
+        print(self.hello_world)
