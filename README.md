@@ -38,6 +38,8 @@
 ## Table of Contents
 
 - [About](#about)
+- [How-to Use](#how-to-use)
+- [Auto Changelog](#auto-changelog)
 
 
 
@@ -45,3 +47,19 @@
 ## About
 
 Python package template repository.
+
+
+
+<!-- HOW-TO USE -->
+## How-to Use
+
+1. Use the repository as a template.
+2. Clone the repository.
+3. Build your package.
+
+
+
+<!-- AUTO-CHANGELOG -->
+## Auto Changelog
+
+You can find the changelog [here](CHANGELOG.md). To run `auto-changelog`, follow those [instructions](https://healkeiser.github.io/notes/development/javascript/auto-changelog/#install).
